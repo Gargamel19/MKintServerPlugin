@@ -1,0 +1,20 @@
+name: KIPlugin
+version: 1.0
+main: trendelenburg.de.KIPlugin
+description: Human readable plugin summary
+author: FettarmQP
+authors: [FettarmQP]
+api-version: 1.13
+commands:
+  startAI:
+    description:
+    usage: /startAI
+  stopAI:
+    description:
+    usage: /stopAI
+  makeBestTry:
+    description:
+    usage: /makeBestTry
+  resetAI:
+    description:
+    usage: /resetAI
